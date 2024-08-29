@@ -2,4 +2,4 @@
 - CompTia Sec+ 
 - CompTia A+
 - Active Counter Measures Threat Hunting
-- TryHackMe Jr. Pen Test
+- TryHackMe Jr. Pen Test && CompTia Pentest+ Paths
