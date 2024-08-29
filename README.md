@@ -1,4 +1,4 @@
-# Carlos Enamorado Resume/Certification Portfolio
+# Carlos Enamorado Portfolio
 - CompTia Sec+ 
 - CompTia A+
 - Active Counter Measures Threat Hunting
