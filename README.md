@@ -2,7 +2,7 @@
 - CompTia Sec+ 
 - CompTia A+
 - Active Counter Measures Threat Hunting
-- TryHackMe Jr. Pen Test; CompTia Pentest+ Paths
+- TryHackMe Top 1% : https://tryhackme.com/p/fatherl0s
 
 
 ### Please feel free to navigate throughout my Github for various BASH and Python scripts!
