@@ -8,3 +8,7 @@
 - Vulnerability Reporting and Alerting with Google OAUTH 2.0: https://github.com/fath3rl0s/Automations
 - Ticket Automations using Jira API: https://github.com/fath3rl0s/VMxJira
 
+### OSCP Notes
+- Im currently in pursuit of my OSCP!
+- https://publish.obsidian.md/carlos-oscp-notes
+
