@@ -1,5 +1,5 @@
-# Carlos Enamorado Resume/Cert Portfolio
+# Carlos Enamorado Resume/Certification Portfolio
 - CompTia Sec+ 
 - CompTia A+
 - Active Counter Measures Threat Hunting
-- TryHackMe Jr. Pen Test Path
+- TryHackMe Jr. Pen Test
