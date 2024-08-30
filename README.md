@@ -1,9 +1,13 @@
 # Carlos Enamorado Portfolio
-- CompTia Sec+ 
-- CompTia A+
-- Active Counter Measures Threat Hunting
-- TryHackMe Top 1% : https://tryhackme.com/p/fatherl0s
+&nbsp;
+&nbsp;
 
+As a Senior Cybersecurity Instructor, I deliver specialized training in cybersecurity awareness, network security, and vulnerability management for some of the world's leading organizations, such as Amazon, Deloitte, and KPMG. 
+
+I enjoy building and breaking boxes
+LinkedIn : https://www.linkedin.com/in/carlos-analyst/
+
+&nbsp;
 &nbsp;
 ### Github has various BASH and Python projects and a Splunk attack lab!
 
@@ -36,3 +40,12 @@
 - Im currently in pursuit of my OSCP!
 - https://publish.obsidian.md/carlos-oscp-notes
 
+&nbsp;
+&nbsp;
+
+#### CERTIFICATIONS
+- CompTia Sec+ 
+- CompTia A+
+- Active Counter Measures Threat Hunting
+- TryHackMe Top 1% : https://tryhackme.com/p/fatherl0s
+- OSCP in progress
