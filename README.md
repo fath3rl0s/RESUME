@@ -12,15 +12,16 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 &nbsp;
 &nbsp;
 &nbsp;
-## Github has various BASH and Python projects and a Splunk attack lab!
+## Github has various BASH and Python projects and a Splunk attack simulation
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-### Splunk x AWS x SLIVER C2 Attack Simulation
-- Covers malware installation, detonation, registry key alterations
-- Splunk log collection and Wireshark PCAP traffic
+### Splunk x AWS x SLIVER C2 Attack Simulation & CTF
+- Covers malware installation, detonation, registry key alterations, privilege escalation
+- Splunk log collection, threat detection, and Wireshark PCAP traffic analysis
+- CTF style flags for guidance on threat hunting
 - https://github.com/fath3rl0s/SOC_ACC_24/tree/main
 <img width="1169" alt="image" src="https://github.com/user-attachments/assets/fa796da1-bcc5-4eb9-b0ca-1eec9ceba92b">
 
