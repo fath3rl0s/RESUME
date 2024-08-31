@@ -19,7 +19,7 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 &nbsp;
 
 ### Splunk x AWS x SLIVER C2 Attack Simulation & CTF
-- Covers malware installation, detonation, registry key alterations, privilege escalation
+- Covers malware installation, detonation, registry key alterations, and privilege escalation
 - Splunk log collection, threat detection, and Wireshark PCAP traffic analysis
 - CTF style flags for guidance on threat hunting
 - https://github.com/fath3rl0s/SOC_ACC_24/tree/main
