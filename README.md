@@ -21,7 +21,6 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 ### Splunk x AWS x SLIVER C2 Attack Simulation & CTF
 - Covers malware installation, detonation, Windows Registry Key alterations, and privilege escalation
