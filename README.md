@@ -35,7 +35,7 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 &nbsp;
 
 ### Vulnerability Reporting and Alerting with Google OAUTH 2.0
-- Python and BASH scipts for automating scans and pulling reports from Nessus
+- Python and BASH scipts for automating scans and pulling reports from Nessus' API
 - Emails Nessus, NMAP, & OpenVas reports to GMAIL account
 - https://github.com/fath3rl0s/Automations
 
