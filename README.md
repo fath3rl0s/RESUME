@@ -1,10 +1,13 @@
 # Carlos Enamorado
-## CV Portfolio
+CV Portfolio
 
 &nbsp;
 &nbsp;
+&nbsp;
 
-As a Senior Cybersecurity Instructor, I deliver specialized training in cybersecurity awareness, network security, and vulnerability management for some of the world's leading organizations, such as Amazon, Deloitte, and KPMG. 
+As a Senior Cybersecurity Instructor, I've deliver specialized training in cybersecurity awareness, network security, and vulnerability management for some of the world's leading organizations, such as Amazon, Deloitte, and KPMG. 
+
+Currently, I work as a Course Assistant at Harvard University for the CSCI 149A 16691 - Software Applications: Security Lifecycle Threats class where I deliver guidance on SDLC and act as a backup instructor for my lead.
 
 I enjoy building and breaking boxes
 &nbsp;
