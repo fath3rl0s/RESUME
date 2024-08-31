@@ -11,6 +11,7 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 
 &nbsp;
 &nbsp;
+&nbsp;
 ## Github has various BASH and Python projects and a Splunk attack lab!
 
 ### Splunk x AWS x SLIVER C2 Attack Simulation
@@ -20,6 +21,7 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 <img width="1169" alt="image" src="https://github.com/user-attachments/assets/fa796da1-bcc5-4eb9-b0ca-1eec9ceba92b">
 
 
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -33,6 +35,7 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 ### Vulnerability Management Ticket Automations using Jira API
 - Python script to convert .nessus to JSON
@@ -43,10 +46,14 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 <img width="714" alt="image" src="https://github.com/user-attachments/assets/08474ef1-ac39-4dc4-8159-a22e8ec78fc5">
 
 &nbsp;
+&nbsp;
+&nbsp;
 ### OSCP Notes
 - Im currently in pursuit of my OSCP!
 - https://publish.obsidian.md/carlos-oscp-notes
 
+
+&nbsp;
 &nbsp;
 &nbsp;
 
