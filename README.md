@@ -33,6 +33,9 @@ LinkedIn : https://www.linkedin.com/in/carlos-analyst/
 &nbsp;
 
 #### Vulnerability Management Ticket Automations using Jira API
+- Python script to convert .nessus to JSON
+- Filter JSON for High - Critical Vulnerabilities
+- Create Jira issue
 - https://github.com/fath3rl0s/VMxJira
 
 <img width="714" alt="image" src="https://github.com/user-attachments/assets/08474ef1-ac39-4dc4-8159-a22e8ec78fc5">
