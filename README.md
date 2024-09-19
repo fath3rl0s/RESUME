@@ -12,7 +12,7 @@ Currently, I work as a Course Assistant at Harvard University for the CSCI 149A 
 &nbsp;
 
 #### FLATIRON SCHOOL
-As a Senior Cybersecurity Instructor, I've deliver specialized training in cybersecurity awareness, network security, and vulnerability management for some of the world's leading organizations, such as Amazon, Deloitte, and KPMG. 
+As a Senior Cybersecurity Instructor, I've delivered specialized training in cybersecurity awareness, network security, threat thunting, and vulnerability management for some of the world's leading organizations, such as Amazon, Deloitte, and KPMG. 
 
 
 
