@@ -20,6 +20,7 @@ I enjoy building and breaking boxes
 &nbsp;
 
 LinkedIn : https://www.linkedin.com/in/carlos-analyst/
+&nbsp;
 OSCP x CPTS : https://publish.obsidian.md/carlos-oscp-notes/0.+HOME
 &nbsp;
 &nbsp;
