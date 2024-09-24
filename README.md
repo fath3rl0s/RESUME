@@ -6,7 +6,7 @@ CV Portfolio
 &nbsp;
 
 #### HARVARD UNIVERSITY
-Currently, I work as a Course Assistant at Harvard University for the CSCI 149A 16691 - Software Applications: Security Lifecycle Threats class where I deliver guidance on SDLC and act as a backup instructor for my lead.
+Currently, I support Harvard University's CSCI 149A 16691 - Software Applications: Security Lifecycle Threats class where I deliver guidance on product lifecycle, from ideation to decommission, and their security implications under CISA and other regulatory bodies - GDPR, NIST, SEC etc.
 
 &nbsp;
 &nbsp;
